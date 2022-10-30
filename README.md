@@ -12,8 +12,6 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 
 ## Table of Contents
 
-* [Demo](#demo)
-* [Preview](#preview)
 * [Features](#features)
 * [Installation](#installation)
 * [Technology](#technology)
