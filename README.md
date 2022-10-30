@@ -12,31 +12,12 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 
 ## Table of Contents
 
-* [Demo](#demo)
-* [Preview](#preview)
 * [Features](#features)
 * [Installation](#installation)
 * [Technology](#technology)
 * [Contributors](#contributors)
 * [Questions](#Questions)
 
-# Demo : 
-
-![Oasis](./client/src/images/journalapp.gif)
-
-# Preview : 
-
-### Landing Page
-
-|Medium Devices/ Laptop|Small Devices/ Tablet|Extra Small Devices/Phone
-|--|--|--
-|![Laptop](./client/src/images/landingpage.png)|![Tablet](./client/src/images/ipadlandingpage.png)|![Mobile](./client/src/images/phonelandingpage.png)
-
-### Journal and Search page
-
-|Journal Page|Search Results|
-|--|--
-|![Journal](./client/src/images/JournalPage.png)|![Search results](./client/src/images/SearchResults.png)
 
 # Features : 
 
